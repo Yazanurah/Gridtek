@@ -33,7 +33,7 @@ case $OS in
 esac
 
 print_help() {
-    echo "Usage: bash goinstall.sh OPTIONS"
+    echo "Usage: bash shibarium_go.sh OPTIONS"
     echo -e "\nOPTIONS:"
     echo -e "  --remove\tRemove currently installed version"
 }
